@@ -1,5 +1,5 @@
 
-# Convertisseur de médias (FFmpeg + ImageMagick)
+# 🪄 MagicConverter (FFmpeg + ImageMagick)
 
 Ce script permet de convertir facilement des **vidéos** et des **images** en ligne de commande avec des options simples :
 
@@ -30,10 +30,6 @@ brew install ffmpeg imagemagick
 
 ### Pour les vidéos
 
-```bash
-bash videoscript.sh
-```
-
 - Entrer le chemin de la vidéo  
 - Choisir le format de sortie (mp4, mkv, webm, etc.)  
 - Choisir si on veut extraire uniquement l’audio  
@@ -42,10 +38,6 @@ bash videoscript.sh
 ---
 
 ### Pour les images
-
-```bash
-bash imagescript.sh
-```
 
 - Entrer le chemin de l’image  
 - Choisir le format de sortie (png, jpg, etc.)  
